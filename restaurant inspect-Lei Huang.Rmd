@@ -347,7 +347,7 @@ dat2017 <- scored[get(inspection.date.name) >= '2017-01-01' & get(inspection.dat
 dat2018 <- scored[get(inspection.date.name) >= '2018-01-01' & get(inspection.date.name) < "2019-01-01"]
 
 #step 10 Api
-api_key = 'AIzaSyA-e3Vd6Dg-v5kjgitsrXY5LMuNYYZVQq8'
+api_key = 
 register_google(key = api_key)
 ```
 
